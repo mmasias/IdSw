@@ -12,4 +12,4 @@
 ||
 |**Representación detallada**<br>*(Vista del Constructor)*|Diseño del almacenamiento físico<br><br>![](images/5-1.png)|Diseño detallado del programa<br><br>![](images/5-2.png)|Arquitectura de red, protocolos<br><br>![](images/5-3.png)|Pantallas, codificación de seguridad<br><br>![](images/5-4.png)|Definición de tiempos<br><br>![](images/5-5.png)|Especificación de reglas, lógica de programa<br><br>![](images/5-6.png)|
 ||
-|**Sistema en funcionamiento**|**Bases de datos**|**Inventario de programas, registros**|**Instalaciones de comunicación**|**Personas capacitadas**|**Eventos empresariales**|
+|**Sistema en funcionamiento**|***Bases de datos***|***Inventario de programas, registros***|***Instalaciones de comunicación***|***Personas capacitadas***|***Eventos empresariales***|***Reglas aplicadas***|
