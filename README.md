@@ -1,7 +1,7 @@
- # IdSw
+# IdSw
 
 ||Datos (Qué)|Actividades (Cómo)|Ubicaciones (Dónde)|Personas (Quién)|Tiempo (Cuándo)|Motivación (Por qué)|
-|-|-|-|-|-|-|-|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
 |**Objetivos / Alcance**<br>*(Vista del Planificador)*|Lista de cosas importantes para la empresa<br><br>![](images/1-1.png)|Lista de funciones que realiza la empresa<br><br>![](images/1-2.png)|Lista de ubicaciones de la empresa<br><br>![](images/1-3.png)|Enfoques organizativos<br><br>![](images/1-4.png)|Calendario maestro de negocios<br><br>![](images/1-5.png)|Visión y misión de la empresa<br><br>![](images/1-6.png)|
 |**Modelo empresarial**<br>*(Vista del Propietario)*|Modelo de datos divergente, lenguaje<br><br>![](images/2-1.png)|Modelo de procesos de negocio<br><br>![](images/2-2.png)|Red logística<br><br>![](images/2-3.png)|Organigrama<br><br>![](images/2-4.png)|Diagrama de estados/transiciones<br><br>![](images/2-5.png)|Estrategias, tácticas, políticas y reglas<br><br>![](images/2-6.png)|
 |**Modelo de conceptos fundamentales**<br>*(Vista del Arquitecto)*|Modelo E/R convergente<br><br>![](images/3-1.png)|Diagrama de flujo de datos esencial<br><br>![](images/3-2.png)|Ubicación de roles<br><br>![](images/3-3.png)|Sistema viable, casos de uso<br><br>![](images/3-4.png)|Historia de vida de entidades<br><br>![](images/3-5.png)|Modelo de reglas de negocio<br><br>![](images/3-6.png)|
